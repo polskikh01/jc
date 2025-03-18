@@ -1,0 +1,1 @@
+export {DottedSeparator} from './dotted-separator';
